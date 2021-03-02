@@ -44,7 +44,7 @@ ____
 
 ## Web
 
-### Front-end
+- [Фронтенд](frontend.md)
 
 ### Back-end
 
