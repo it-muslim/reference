@@ -54,7 +54,7 @@ ____
 
 ####  Сайты
 
-- [Android Developer Reference](https://github.com/ImangazalievM/android-developer-reference) - набор полезных ссылок
+- ⭐ [Android Developer Reference](https://github.com/ImangazalievM/android-developer-reference) - набор полезных ссылок
 - [Cybern.ru](http://cybern.ru) — Java  
 - [Сайт Александра Климова](http://developer.alexanderklimov.ru/) — Java/Android  
 - [StartAndroid](http://startandroid.ru) — Android  
