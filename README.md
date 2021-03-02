@@ -26,7 +26,7 @@
 
 ### Мотивация
 
-- [https://youtu.be/PyVT8G1QEg0](https://youtu.be/PyVT8G1QEg0)
+- [Как стать программистом с нуля за 187 дней, реальная история. Мой опыт](https://youtu.be/PyVT8G1QEg0)
 
 ### Собеседования
 
