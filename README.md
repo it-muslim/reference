@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="560" height="100" src="https://dic.academic.ru/pictures/wiki/files/66/Basmala.svg">
+  <img width="560" height="100" src="/basmala.svg">
 </p>
 
 # IT-Muslim Reference
