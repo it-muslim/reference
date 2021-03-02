@@ -51,12 +51,8 @@ ____
 ## Мобильная разработка
 
 - [Android](android.md)
-
-### iOS
-
-### Flutter
-
-- [Руководство по языку Dart](https://metanit.com/dart/tutorial)
+- iOS
+- [Flutter](flutter.md)
 
 ## Дизайн
 
