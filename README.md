@@ -54,14 +54,15 @@ ____
 
 ####  Сайты
 
-[Cybern.ru](http://cybern.ru) — Java  
-[Сайт Александра Климова](http://developer.alexanderklimov.ru/) — Java/Android  
-[StartAndroid](http://startandroid.ru) — Android  
-[Mobilab](http://www.mobilab.ru/androiddev/blog.html) — Android    
-[Андроид, финты ушами](http://dolbodub.blogspot.ru/) — Android  
-[LEARN.ANDROID](http://learn-android.ru/index.html) — Android  
-[fanDROID.info](http://fandroid.info) — Android  
-[developer.android.com](http://developer.android.com/) — основной ресурс Android-разработчика
+- [Android Developer Reference](https://github.com/ImangazalievM/android-developer-reference) - набор полезных ссылок
+- [Cybern.ru](http://cybern.ru) — Java  
+- [Сайт Александра Климова](http://developer.alexanderklimov.ru/) — Java/Android  
+- [StartAndroid](http://startandroid.ru) — Android  
+- [Mobilab](http://www.mobilab.ru/androiddev/blog.html) — Android    
+- [Андроид, финты ушами](http://dolbodub.blogspot.ru/) — Android  
+- [LEARN.ANDROID](http://learn-android.ru/index.html) — Android  
+- [fanDROID.info](http://fandroid.info) — Android  
+- [developer.android.com](http://developer.android.com/) — основной ресурс Android-разработчика
 
 #### Каналы
 
