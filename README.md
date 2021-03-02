@@ -26,6 +26,8 @@
 
 ### Мотивация
 
+- [https://youtu.be/PyVT8G1QEg0](https://youtu.be/PyVT8G1QEg0)
+
 ### Собеседования
 
 ## Web
