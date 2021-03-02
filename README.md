@@ -11,7 +11,7 @@
 
 ____
 
-Наше сообщество в Telegram: [IT-Muslim](t.me/it_muslim)
+Наше сообщество в Telegram: [IT-Muslim](https://t.me/it_muslim)
 
 ⭐ - рекомендованное
 
