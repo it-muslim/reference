@@ -1,8 +1,9 @@
-# IT-Muslim Reference
 
 <p align="center">
   <img width="560" height="100" src="https://dic.academic.ru/pictures/wiki/files/66/Basmala.svg">
 </p>
+
+# IT-Muslim Reference
 
 ## Войти в IT
 
