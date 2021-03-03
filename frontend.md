@@ -1,15 +1,17 @@
-# Учебники
+# Фронтенд
+
+## Учебники
 
 - [Самоучитель HTML](https://webref.ru/course/html-tutorial) и [самоучитель CSS](https://webref.ru/course/css-tutorial) от WebRef.
 - [Современный учебник JavaScript](https://learn.javascript.ru/) - самый попурный учебник по JavaScript. Постоянно обновляется и дополняется. Помимо теории к каждой (или почти к каждой) главе прилагаются задачи и их решение.
 
-# React
+## React
 
 - [Курс от Гошы Дударя](https://www.youtube.com/playlist?list=PL0lO_mIqDDFWhkCEMnLsBP51K7o78dbAJ)
 - [Курс от JavaScript.ru](https://www.youtube.com/playlist?list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO)
 - [Курс от webDev](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHC8qUfTzfxPuGrz4o9tmeE)
 
-# Каналы YouTube
+## Каналы YouTube
 
 - [АйТи Синяк](https://www.youtube.com/channel/UClgj-KWiNaOo9H1rz1ISO6Q)
 - [IT's Bruise](https://www.youtube.com/channel/UCxmwNWXYWiNMXWy3VRmfEkw) - АйТи Синяк на английском
@@ -24,7 +26,7 @@
 - [Отсобеседование](https://www.youtube.com/channel/UChpkp-Gr6_TEefYvKbV74bw) - канал с собеседованиями
 - [Фрилансер по жизни](https://www.youtube.com/c/FreelancerLifeStyle)
 
-# Telegram-каналы
+## Telegram-каналы
 
 - [Веб-стандарты](https://t.me/webstandards_ru)
 - [For Web](https://t.me/forwebdev)
