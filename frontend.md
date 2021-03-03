@@ -6,8 +6,8 @@
 # React
 
 - [Курс от Гошы Дударя](https://www.youtube.com/playlist?list=PL0lO_mIqDDFWhkCEMnLsBP51K7o78dbAJ)
-- [Курс от JavaScript.ru](https://www.youtube.com/playlist?list=PL0lO_mIqDDFWhkCEMnLsBP51K7o78dbAJ)
-- [Курс от webDev](https://www.youtube.com/playlist?list=PL0lO_mIqDDFWhkCEMnLsBP51K7o78dbAJ)
+- [Курс от JavaScript.ru](https://www.youtube.com/playlist?list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO)
+- [Курс от webDev](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHC8qUfTzfxPuGrz4o9tmeE)
 
 # Каналы YouTube
 
