@@ -22,7 +22,7 @@
 - [Frontend Channel](https://www.youtube.com/c/FrontendChannel) - доклады с FrontendConf
 - [Web Interview](https://www.youtube.com/c/WebInterview) - канал с собеседованиями
 - [Отсобеседование](https://www.youtube.com/channel/UChpkp-Gr6_TEefYvKbV74bw) - канал с собеседованиями
-- [Фрилансер по жизни - IT и фриланс](https://www.youtube.com/c/FreelancerLifeStyle)
+- [Фрилансер по жизни](https://www.youtube.com/c/FreelancerLifeStyle)
 
 # Telegram-каналы
 
