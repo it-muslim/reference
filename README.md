@@ -35,7 +35,7 @@ ____
 ## Мобильная разработка
 
 - [Android](android.md)
-- iOS
+- [iOS](iOS.md)
 - [Flutter](flutter.md)
 
 ## Дизайн
