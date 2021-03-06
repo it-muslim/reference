@@ -2,25 +2,9 @@
 
 ## Поиск работы
 
-### Telegram каналы
+### Сайты и каналы для поиска работы
 
-@it_muslim_job - группа IT-Muslim для поиска работы и размещения вакансий/заказов
-
-@jobforgeeks
-@fordev
-@Remoteit
-@dddwork
-@theyseeku
-@jobs_abroad
-@u_job
-@it_hunters
-@javascript_jobs_feed
-@nodejs_jobs_feed
-@devops_jobs_feed
-@adobekz
-@webjobskz
-@itjobskz
-@mobilejobskz
+[Поиск работы](job-search.md)
 
 ## Собеседования
 
