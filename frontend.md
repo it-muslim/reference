@@ -28,6 +28,7 @@
 - [Web Interview](https://www.youtube.com/c/WebInterview) - канал с собеседованиями
 - [Отсобеседование](https://www.youtube.com/channel/UChpkp-Gr6_TEefYvKbV74bw) - канал с собеседованиями
 - [Фрилансер по жизни](https://www.youtube.com/c/FreelancerLifeStyle)
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 
 ## Telegram-каналы
 
