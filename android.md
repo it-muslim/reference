@@ -4,6 +4,7 @@
 
 - ⭐ [Android Developer Reference](https://github.com/ImangazalievM/android-developer-reference) - набор полезных ссылок
 - [Cybern.ru](http://cybern.ru) — Java  
+- [Metanit - Java](https://metanit.com/java)
 - [Сайт Александра Климова](http://developer.alexanderklimov.ru/) — Java/Android  
 - [StartAndroid](http://startandroid.ru) — Android  
 - [Mobilab](http://www.mobilab.ru/androiddev/blog.html) — Android    
