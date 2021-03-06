@@ -44,7 +44,7 @@ ____
 ## Мобильная разработка
 
 - [Android](android.md)
-- [iOS](iOS.md)
+- [iOS](ios.md)
 - [Flutter](flutter.md)
 
 ## Другие направления
