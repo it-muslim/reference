@@ -9,6 +9,6 @@
 ## Python
 
 - [Metanit.com](https://metanit.com/python/)
-- 
+
 ## C#
 - [Metanit](https://metanit.com/sharp/) - Сайт с обучающими материалами по языку C# и семейству технологий .NET
