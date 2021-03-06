@@ -22,6 +22,7 @@
   - Frontend: HTML+CSS+JavaScript
   - Backend: Python, PHP, Java, Ruby, JavaScript (NodeJS)
 
+
 **2. Мобильные приложения:**
   - iOS: Swift, Objective-C (устарел)
   - Android: Kotlin, Java (потихоньку заменяется Kotlin-ом)
