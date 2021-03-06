@@ -2,7 +2,7 @@
 
 ## Учебники
 
-- [CodeBasics](https://ru.code-basics.com) - онлайн-учебник по HTML, CSS и JavaScript
+- [CodeBasics](https://ru.code-basics.com) - онлайн-учебник по HTML, CSS и JavaScript (а также другим языкам) от Хекслет
 - [Самоучитель HTML](https://webref.ru/course/html-tutorial) и [самоучитель CSS](https://webref.ru/course/css-tutorial) от WebRef.
 - [Современный учебник JavaScript](https://learn.javascript.ru/) - самый попурный учебник по JavaScript. Постоянно обновляется и дополняется. Помимо теории к каждой (или почти к каждой) главе прилагаются задачи и их решение.
 
