@@ -47,6 +47,12 @@ ____
 - [iOS](iOS.md)
 - [Flutter](flutter.md)
 
+## Другие направления
+
+### C++
+
+- [Metanit.com](https://metanit.com/cpp/)
+
 ## Дизайн
 
 - [С чего начать изучение дизайна интерфейсов?](https://ingternet.ru/s-chiegho-nachat-izuchieniie-dizaina/)
