@@ -13,6 +13,9 @@ ____
 
 Наше сообщество в Telegram: [IT-Muslim](https://t.me/it_muslim)
 
+- [IT-Muslim в лицах](https://github.com/it-muslim/faces) - участники IT-Muslim
+- [Исламские проекты](https://github.com/it-muslim/projects)
+
 ⭐ - рекомендованное
 
 ## Войти в IT
