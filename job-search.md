@@ -4,7 +4,7 @@
 
 **Русскоязычные**
 - [Хабр Карьера](https://career.habr.com) (бывший "Мой круг")
-- [HeadHunter](https://hh.ru) (бывший "Мой круг")
+- [HeadHunter](https://hh.ru)
 
 **Зарубежные**
 
