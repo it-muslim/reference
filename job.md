@@ -8,6 +8,7 @@
 
 ## Собеседования
 
+- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook) (ENG) - руководство про подготовке и прохождению собеседований
 
 ## Отношени на работе
 
