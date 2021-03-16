@@ -24,3 +24,8 @@
 - [Start Android](http://www.youtube.com/user/vitaxafication) — Android
 - [Droidcon Russia](https://www.youtube.com/channel/UC0b8zl2j1Qo6Xa7UHwfGd8A) — Android  
 - [Mobius](https://www.youtube.com/channel/UCG70q1HRspLdd93HW94WS-A) — Android
+
+## Подготовка к собеседованию
+
+[IT-Sobes][https://itsobes.ru/] - вопросы и ответы по Java/Android
+[java-interview][https://github.com/enhorse/java-interview] - вопросы и ответы по Java
