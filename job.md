@@ -10,6 +10,6 @@
 
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook) (ENG) - руководство про подготовке и прохождению собеседований
 
-## Отношени на работе
+## Отношения на работе
 
 - [На работу - работать! Дружба в офисе](https://youtu.be/4X8bGaSmLEY)
