@@ -8,6 +8,10 @@
 - [xsltdev](https://xsltdev.ru) - онлайн учебник/справочник по HTML, CSS, JavaScript, TypeScript, Angular, React и Node.js
 - [code.mu](http://code.mu/ru/markup/book/prime) - учебник HTML и CSS
 
+## Для начинающих
+
+- [TOP 11 ошибок начинающего разработчика](https://www.youtube.com/watch?v=e7Dhr6RGJrM)
+
 ## React
 
 - [Курс от Гошы Дударя](https://www.youtube.com/playlist?list=PL0lO_mIqDDFWhkCEMnLsBP51K7o78dbAJ)
