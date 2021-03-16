@@ -19,7 +19,8 @@
 - [АйТи Синяк](https://www.youtube.com/channel/UClgj-KWiNaOo9H1rz1ISO6Q)
 - [IT's Bruise](https://www.youtube.com/channel/UCxmwNWXYWiNMXWy3VRmfEkw) - АйТи Синяк на английском
 - [JavaScript.Ninja](https://www.youtube.com/c/JavascriptNinja) - канал Ильи Климова, разработчика в GitLab
-- [Sorax](https://www.youtube.com/c/artsorax) - один из самых ранних каналов по фронтенду. Материал местами устарел, но основы можно подчерпнуть.
+- [Sorax](https://www.youtube.com/c/artsorax) - один из самых ранних каналов по фронтенду. Материал местами устарел, но основы можно подчерпнуть
+- [WebDev с нуля](https://www.youtube.com/c/itgid)
 - [Vadim Makeev](https://www.youtube.com/c/pepelsbey) - канал Вадима Макеева (ex. HTML Academy, Веб стандарты)
 - [Просто: разработка](https://www.youtube.com/c/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0)
 - [Безбагов](https://www.youtube.com/c/%D0%91%D0%B5%D0%B7%D0%B1%D0%B0%D0%B3%D0%BE%D0%B2) - канал какого-то ноунейма
