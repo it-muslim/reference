@@ -23,7 +23,7 @@ https://www.notion.so
 
 https://nimbusweb.me
 
-## Youtube Vanced - Android
+## YouTube Vanced - Android
 
 Клиент YouTube для Android без рекламы и с возможностью прослушивания в фоне.
 
