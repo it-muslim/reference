@@ -35,6 +35,7 @@
 
 - [@fordev](https://t.me/fordev)
 - [@javascript_jobs_feed](https://t.me/javascript_jobs_feed)
+- [@webfrl](https://t.me/webfrl)
 - [@webjobskz](https://t.me/webjobskz) - вакансии для веб-разработчиков в Казахстане
 
 ### Мобильная разработка
