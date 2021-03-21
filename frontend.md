@@ -12,6 +12,9 @@
 
 - [TOP 11 ошибок начинающего разработчика](https://www.youtube.com/watch?v=e7Dhr6RGJrM)
 
+- [Flexbox Froggy](https://flexboxfroggy.com) - тренажер по Flexbox
+- [CSS Grid Garden](https://cssgridgarden.com) - тренажер по Grid
+
 ## React
 
 - [Курс от Гошы Дударя](https://www.youtube.com/playlist?list=PL0lO_mIqDDFWhkCEMnLsBP51K7o78dbAJ)
@@ -35,6 +38,7 @@
 - [Фрилансер по жизни](https://www.youtube.com/c/FreelancerLifeStyle)
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 - [Rolling Scopes School](https://www.youtube.com/c/RollingScopesSchool)
+- [Девшахта](https://www.youtube.com/c/devschacht) - канал Андрея Мелихова, разработчика в ЮMoney (Яндекс.Деньги)
 
 ## Telegram-каналы
 
