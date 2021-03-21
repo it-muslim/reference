@@ -27,5 +27,5 @@
 
 ## Подготовка к собеседованию
 
-[IT-Sobes][https://itsobes.ru/] - вопросы и ответы по Java/Android
-[java-interview][https://github.com/enhorse/java-interview] - вопросы и ответы по Java
+- [IT-Sobes](https://itsobes.ru) - вопросы и ответы по Java/Android
+- [enhorse/java-interview](https://github.com/enhorse/java-interview) - вопросы и ответы по Java
