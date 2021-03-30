@@ -2,7 +2,6 @@
 
 ## Стажировка
 
-### Мобайл
 - [Как попасть на стажировку в Redmadrobot](https://www.youtube.com/watch?v=XLpHRJtpY0c) - о стажировке студии мобильной разработке в RedMadRobot
 
 ## Поиск работы
