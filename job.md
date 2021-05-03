@@ -1,14 +1,14 @@
 # Работа
 
-## Стажировка
-
-- [Как попасть на стажировку в Redmadrobot](https://www.youtube.com/watch?v=XLpHRJtpY0c) - о стажировке студии мобильной разработке в RedMadRobot
-
 ## Поиск работы
 
 ### Сайты и каналы для поиска работы
 
 [Поиск работы](job-search.md)
+
+## Стажировка
+
+- [Как попасть на стажировку в Redmadrobot](https://www.youtube.com/watch?v=XLpHRJtpY0c) - о стажировке студии мобильной разработке в RedMadRobot
 
 ## Собеседования
 
