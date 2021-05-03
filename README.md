@@ -56,6 +56,9 @@ ____
 
 ## Другие направления
 
+- [Информационная безопасность](information-security.md)
+- [Data Science](data-science.md)
+
 ### C++
 
 - [Metanit.com](https://metanit.com/cpp/)
@@ -63,11 +66,3 @@ ____
 ## Дизайн
 
 - [С чего начать изучение дизайна интерфейсов?](https://ingternet.ru/s-chiegho-nachat-izuchieniie-dizaina/)
-
-## Информационная безопасность
-
-- [Кто и как ловит хакеров, Часть 1](https://youtu.be/Ii8Tm5vBgU0)
-
-## Прочее
-
-- [Data Science](data-science.md)
