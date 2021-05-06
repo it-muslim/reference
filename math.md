@@ -1,7 +1,7 @@
 # Математика
 
 - [Математика с нуля](http://spacemath.xyz/)
-- [Math is Fun (EN)](https://www.mathsisfun.com/index.htm)
+- [Math is Fun](https://www.mathsisfun.com/index.htm) (EN)
 
 # Каналы
 
