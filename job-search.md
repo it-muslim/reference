@@ -9,18 +9,20 @@
 
 **Русскоязычные**
 
-Два самых известных сайта:
+Два самых популярных сайта:
 
 - [Хабр Карьера](https://career.habr.com) (бывший "Мой круг")
 - [HeadHunter](https://hh.ru)
+- [Djinni](djinni.co)
 
 Менее известные:
 
+- [Profunctor](https://profunctor.io)
 - [GeekJob](https://geekjob.ru)
 
 **Зарубежные**
 
-[Stackoverflow Jobs](https://stackoverflow.com/jobs)
+[StackOverflow Jobs](https://stackoverflow.com/jobs)
 
 ## Telegram-каналы
 
@@ -39,6 +41,7 @@
 - [@it_hunters](https://t.me/it_hunters)
 - [@devops_jobs_feed](https://t.me/devops_jobs_feed)
 - [@itjobskz](https://t.me/itjobskz)
+- [@jobforjunior](https://t.me/jobforjunior) - работа для Junior'ов
 
 ### Веб
 
