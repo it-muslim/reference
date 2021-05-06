@@ -8,10 +8,19 @@
 ## Сайты
 
 **Русскоязычные**
+
+Два самых известных сайта:
+
 - [Хабр Карьера](https://career.habr.com) (бывший "Мой круг")
 - [HeadHunter](https://hh.ru)
 
+Менее известные:
+
+- [GeekJob](https://geekjob.ru)
+
 **Зарубежные**
+
+[Stackoverflow Jobs](https://stackoverflow.com/jobs)
 
 ## Telegram-каналы
 
