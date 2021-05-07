@@ -64,6 +64,7 @@
 ### Маркетинг
 
 - [@marketing_jobs](https://t.me/marketing_jobs)
+- [@smm_dagestan](https://t.me/smm_dagestan) - SMM
 
 ### Data Science
 
