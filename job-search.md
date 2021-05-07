@@ -48,6 +48,7 @@
 - [@fordev](https://t.me/fordev)
 - [@javascript_jobs_feed](https://t.me/javascript_jobs_feed)
 - [@webfrl](https://t.me/webfrl)
+- [@vuejs_jobs_feed](https://t.me/vuejs_jobs_feed) - Vue.js
 - [@webjobskz](https://t.me/webjobskz) - вакансии для веб-разработчиков в Казахстане
 
 ### Мобильная разработка
@@ -58,7 +59,13 @@
 
 - [@designhunters](https://t.me/designhunters)
 - [@adobekz](https://t.me/adobekz)
+- [@uiux_jobs](https://t.me/uiux_jobs)
 
 ### Маркетинг
 
 - [@marketing_jobs](https://t.me/marketing_jobs)
+
+### Data Science
+
+- [@datasciencejobs](https://t.me/datasciencejobs)
+- [@datasciencework](https://t.me/datasciencework)
