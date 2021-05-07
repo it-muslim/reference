@@ -53,13 +53,14 @@
 
 ### Мобильная разработка
 
+- [@android_jobs](https://t.me/android_jobs) - Android
 - [@mobilejobskz](https://t.me/mobilejobskz)
 
 ### Дизайн
 
 - [@designhunters](https://t.me/designhunters)
-- [@adobekz](https://t.me/adobekz)
 - [@uiux_jobs](https://t.me/uiux_jobs)
+- [@adobekz](https://t.me/adobekz)
 
 ### Маркетинг
 
