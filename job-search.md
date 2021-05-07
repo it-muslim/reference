@@ -67,8 +67,8 @@
 
 #### SMM
 
-- [@smm_dagestan](https://t.me/smm_dagestan)
 - [@dnative_job](https://t.me/dnative_job)
+- [@smm_dagestan](https://t.me/smm_dagestan)
 
 ### Data Science
 
