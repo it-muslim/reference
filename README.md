@@ -64,6 +64,7 @@ ____
 ## Другие направления
 
 - [Информационная безопасность](information-security.md)
+- [Маркетинг](marketing.md)
 - [Data Science](data-science.md)
 
 ### C++
