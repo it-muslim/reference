@@ -60,6 +60,7 @@ ____
 - [Информационная безопасность](information-security.md)
 - [Маркетинг](marketing.md)
 - [Data Science](data-science.md)
+- [Управление продуктом](product-management.md)
 
 ### C++
 
