@@ -61,6 +61,7 @@ ____
 - [Маркетинг](marketing.md)
 - [Data Science](data-science.md)
 - [Управление продуктом](product-management.md)
+- [Электроника и DIY](eletronics-and-diy.md)
 
 ### C++
 
