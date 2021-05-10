@@ -45,6 +45,7 @@
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 - [Rolling Scopes School](https://www.youtube.com/c/RollingScopesSchool)
 - [Девшахта](https://www.youtube.com/c/devschacht) - канал Андрея Мелихова, разработчика в ЮMoney (Яндекс.Деньги)
+- [Front-end Science c Сергеем Пузанковым](https://www.youtube.com/channel/UCmI5YBB9KJ0xLtFtgBX8rfw) - канал Сергей Пузанкова, лида в Яндекс, Luxoft, MyHeritage, Wix
 
 ## Telegram-каналы
 
