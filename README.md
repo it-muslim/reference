@@ -57,16 +57,10 @@ ____
 
 ## Другие направления
 
+- [Дизайн](design.md)
 - [Информационная безопасность](information-security.md)
 - [Маркетинг](marketing.md)
-- [Data Science](data-science.md)
 - [Управление продуктом](product-management.md)
 - [Электроника и DIY](eletronics-and-diy.md)
-
-### C++
-
-- [Metanit.com](https://metanit.com/cpp/)
-
-## Дизайн
-
-- [С чего начать изучение дизайна интерфейсов?](https://ingternet.ru/s-chiegho-nachat-izuchieniie-dizaina/)
+- [C++](cpp.md)
+- [Data Science](data-science.md)
