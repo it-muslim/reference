@@ -2,7 +2,7 @@
 
 - [Highload.today](https://highload.today)
 
-# СУБД
+## СУБД
 
 - [Основы SQL](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT) - курс от Андрея Созыкина
 - [Серия видео от RClass](https://www.youtube.com/playlist?list=PLf30vI0hEi1v435cBmZSHkr1QAJdOk9mb)
