@@ -60,6 +60,7 @@ ____
 - [Дизайн](design.md)
 - [Информационная безопасность](information-security.md)
 - [Маркетинг](marketing.md)
+- [Системное администрироваие, DevOps](system-administration.md)
 - [Управление продуктом](product-management.md)
 - [Электроника и DIY](eletronics-and-diy.md)
 - [C++](cpp.md)
