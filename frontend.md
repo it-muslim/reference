@@ -15,6 +15,11 @@
 - [Flexbox Froggy](https://flexboxfroggy.com) - тренажер по Flexbox
 - [CSS Grid Garden](https://cssgridgarden.com) - тренажер по Grid
 
+## Для продвинутых
+
+- [web.dev](https://web.dev) - сайт о веб-разработке от Google
+- [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies) (EN/RU) - статьи о проблемах, с которыми столкнулись компании и как они их решали 
+
 ## React
 
 ### Сайты
