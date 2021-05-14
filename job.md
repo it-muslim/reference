@@ -8,10 +8,12 @@
 
 ## Стажировка
 
-- [Как попасть на стажировку в Redmadrobot](https://www.youtube.com/watch?v=XLpHRJtpY0c) - о стажировке студии мобильной разработке в RedMadRobot
-
 - [Стажировки на hh.ru](https://hh.ru/search/vacancy?employment=probation)
 - [Стажироки на SuperJob](https://students.superjob.ru/stazhirovki/)
+
+### Видео
+
+- [Как попасть на стажировку в Redmadrobot](https://www.youtube.com/watch?v=XLpHRJtpY0c) - о стажировке студии мобильной разработке в RedMadRobot
 
 ## Собеседования
 
