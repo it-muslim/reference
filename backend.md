@@ -14,10 +14,15 @@
 
 # PHP
 
+## Учебники
+
 - [CodeBasics](https://ru.code-basics.com/languages/php) - онлайн-учебник по PHP от Хекслет
 - [PHP720](https://php720.com/)
 
+## Полезное
+
 - [PHP-дайджест](https://habr.com/ru/users/pronskiy/posts/)
+- [adelf/acwa_book_ru](https://github.com/adelf/acwa_book_ru) - архитектура сложных веб-приложений с примерами на Laravel
 
 # Python
 
