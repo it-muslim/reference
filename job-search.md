@@ -30,18 +30,19 @@
 
 ---
 
-- [@workayte](https://t.me/workayte)
-- [@perezvonyu](https://t.me/perezvonyu)
-- [@jobforgeeks](https://t.me/)
-- [@Remoteit](https://t.me/Remoteit)
-- [@jobscode_infull](https://t.me/jobscode_infull)
-- [@theyseeku](https://t.me/theyseeku)
-- [@jobs_abroad](https://t.me/jobs_abroad)
-- [@u_job](https://t.me/u_job)
-- [@it_hunters](https://t.me/it_hunters)
 - [@devops_jobs_feed](https://t.me/devops_jobs_feed)
-- [@itjobskz](https://t.me/itjobskz)
+- [@jobforgeeks](https://t.me/)
+- [@jobs_abroad](https://t.me/jobs_abroad)
+- [@jobscode_infull](https://t.me/jobscode_infull)
 - [@jobforjunior](https://t.me/jobforjunior) - работа для Junior'ов
+- [@hiddengurus](https://t.me/hiddengurus)
+- [@it_hunters](https://t.me/it_hunters)
+- [@itjobskz](https://t.me/itjobskz) - работа для айтишников в Казахстане
+- [@perezvonyu](https://t.me/perezvonyu)
+- [@Remoteit](https://t.me/Remoteit)
+- [@theyseeku](https://t.me/theyseeku)
+- [@u_job](https://t.me/u_job)
+- [@workayte](https://t.me/workayte)
 
 ### Веб
 
