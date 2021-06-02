@@ -4,6 +4,11 @@
 
 ## Арабский
 
+- [Арабский алфавит (Android)](https://play.google.com/store/apps/details?id=org.quranacademy.arabicalphabet)
+- [Платформа для изучения арабского Kalimat](https://kalimat.su/)
+- [Арабско-русский словарь (Android)](https://play.google.com/store/apps/details?id=io.arabic.dictionary)
+- [Арабский словарь Maajim](https://play.google.com/store/apps/details?id=io.arabic.maajim)
+
 ## Турецкий
 
 - [Уроки грамматики от DeFa](http://www.de-fa.ru/turkish.htm)
