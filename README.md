@@ -38,7 +38,7 @@ ____
 
 ## Общее
 
-- [Английский](english.md)
+- [Языки](languages.md)
 - [Математика](math.md)
 - [Программирование](programming.md)
 - [Релокейт (переезд)](relocation.md)
