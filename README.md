@@ -41,6 +41,7 @@ ____
 - [Английский](english.md)
 - [Математика](math.md)
 - [Программирование](programming.md)
+- [Релокейт (переезд)](relocation.md)
 - [Git](git.md)
 
 ## Web
