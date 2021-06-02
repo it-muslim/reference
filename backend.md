@@ -24,6 +24,7 @@
 - [PHP-дайджест](https://habr.com/ru/users/pronskiy/posts/)
 - [adelf/acwa_book_ru](https://github.com/adelf/acwa_book_ru) - архитектура сложных веб-приложений с примерами на Laravel
 - [250+ вопросов с собеседований по PHP](https://techrocks.ru/2021/04/18/250-php-job-interview-questions/)
+- [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 # Python
 
