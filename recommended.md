@@ -23,6 +23,16 @@ https://www.notion.so
 
 https://nimbusweb.me
 
+## Vocal Remover
+
+Сервис для удаления музыки из аудио.
+
+https://vocalremover.org
+
+## YouTube Downloader - скачивание видео и аудио с YouTube
+
+https://www.y2mate.com
+
 ## YouTube Vanced - Android
 
 Клиент YouTube для Android без рекламы и с возможностью прослушивания в фоне.
