@@ -12,6 +12,8 @@
 
 - [TOP 11 ошибок начинающего разработчика](https://www.youtube.com/watch?v=e7Dhr6RGJrM)
 
+### Тренажеры
+
 - [Flexbox Froggy](https://flexboxfroggy.com) - тренажер по Flexbox
 - [CSS Grid Garden](https://cssgridgarden.com) - тренажер по Grid
 
