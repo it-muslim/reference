@@ -29,7 +29,9 @@ https://nimbusweb.me
 
 https://vocalremover.org
 
-## YouTube Downloader - скачивание видео и аудио с YouTube
+## YouTube Downloader
+
+Скачивание видео и аудио с YouTube.
 
 https://www.y2mate.com
 
