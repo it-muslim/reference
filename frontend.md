@@ -8,8 +8,6 @@
 - [xsltdev](https://xsltdev.ru) - онлайн учебник/справочник по HTML, CSS, JavaScript, TypeScript, Angular, React и Node.js
 - [code.mu](http://code.mu/ru/markup/book/prime) - учебник HTML и CSS
 
-- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript)
-
 ## Для начинающих
 
 - [TOP 11 ошибок начинающего разработчика](https://www.youtube.com/watch?v=e7Dhr6RGJrM)
@@ -23,6 +21,8 @@
 
 - [web.dev](https://web.dev) - сайт о веб-разработке от Google
 - [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies) (EN/RU) - статьи о проблемах, с которыми столкнулись компании и как они их решали 
+- [Interview Questions for front-end-Developer](http://www.thatjsdude.com/interview/)
+- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript)
 
 ## React
 
