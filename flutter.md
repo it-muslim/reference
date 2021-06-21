@@ -1,7 +1,10 @@
 # Flutter
 
+[Мой опыт на Flutter](https://vas3k.club/post/10567/)
+
 ## Dart
-- [Руководство по языку Dart](https://metanit.com/dart/tutorial)
+
+- [Руководство по языку Dart на Metanit](https://metanit.com/dart/tutorial)
 
 ## Каналы
 
