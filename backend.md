@@ -26,6 +26,10 @@
 - [250+ вопросов с собеседований по PHP](https://techrocks.ru/2021/04/18/250-php-job-interview-questions/)
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
+## Каналы
+
+- [RND PHP](https://www.youtube.com/channel/UC1KvBdMDxZpsOecra6-Kw6g)
+
 # Python
 
 - [Metanit.com](https://metanit.com/python/)
