@@ -26,6 +26,10 @@
 - [250+ вопросов с собеседований по PHP](https://techrocks.ru/2021/04/18/250-php-job-interview-questions/)
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
+### Laravel
+
+- [laravelexamples.com](https://laravelexamples.com) — каталог разных полезных примеров для Laravel от автора YouTube-канала Laravel Daily.
+
 ## Каналы
 
 - [RND PHP](https://www.youtube.com/channel/UC1KvBdMDxZpsOecra6-Kw6g)
