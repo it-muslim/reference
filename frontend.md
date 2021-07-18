@@ -11,6 +11,7 @@
 ## Для начинающих
 
 - [TOP 11 ошибок начинающего разработчика](https://www.youtube.com/watch?v=e7Dhr6RGJrM)
+- [Макеты для верстки](https://t.me/figma2html) - Telegram-канал с макетами для верстки в Figma
 
 ### Тренажеры
 
