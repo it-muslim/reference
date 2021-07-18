@@ -19,6 +19,7 @@
 
 - [Топ 7 ошибок на собеседование в IT-компанию](https://www.youtube.com/watch?v=IcFBsPN2U2g)
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook) (ENG) - руководство про подготовке и прохождению собеседований
+- [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet) (ENG) - шпаргалка для подготовки к собеседованию по алгоритмам и структурам данных
 
 ## Отношения на работе
 
