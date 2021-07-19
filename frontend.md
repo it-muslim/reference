@@ -12,7 +12,7 @@
 
 - [TOP 11 ошибок начинающего разработчика](https://www.youtube.com/watch?v=e7Dhr6RGJrM)
 - [Макеты для верстки](https://t.me/figma2html) - Telegram-канал с макетами для верстки в Figma
-- [Справочник слов, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+- [common-words](https://github.com/yoksel/common-words) - Справочник слов, часто используемые в CSS-классах
 
 ### Тренажеры
 
