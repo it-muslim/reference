@@ -43,6 +43,6 @@ https://www.y2mate.com
 2. Авторизуемся в microG через аккаунт Google
 3. Устанавливаем YouTube Vanced
 
-[Скачать на 4PDA](https://4pda.ru/forum/index.php?showtopic=916464)
+[Скачать на 4PDA](https://4pda.to/forum/index.php?showtopic=916464)
 
 **Внимание:** для скачивания файлов на сайте 4PDA нужно авторизоваться там.
