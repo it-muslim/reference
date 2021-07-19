@@ -61,11 +61,19 @@ ____
 
 ## Другие направления
 
-- [Дизайн](design.md)
-- [Информационная безопасность](information-security.md)
-- [Маркетинг](marketing.md)
-- [Системное администрироваие, DevOps](system-administration.md)
-- [Управление продуктом](product-management.md)
-- [Электроника и DIY](eletronics-and-diy.md)
+#### Языка программирования
 - [C++](cpp.md)
+
+#### Технические
+- [Информационная безопасность](information-security.md)
+- [Системное администрироваие, DevOps](system-administration.md)
+- [QA - тестирование](qa_testing.md)
 - [Data Science](data-science.md)
+
+#### Менеджерские/продуктовые
+- [Дизайн](design.md)
+- [Маркетинг](marketing.md)
+- [Управление продуктом](product-management.md)
+
+#### Разные
+- [Электроника и DIY](eletronics-and-diy.md)
