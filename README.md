@@ -15,7 +15,7 @@ ____
 
 - [IT-Muslim в лицах](https://github.com/it-muslim/faces) - участники IT-Muslim
 - [Исламские проекты](https://github.com/it-muslim/projects)
-- [Рекоммендуемые программы и сервисы](recommended.md)
+- [Рекомендуемые программы и сервисы](recommended.md)
 
 ⭐ - рекомендованное
 
