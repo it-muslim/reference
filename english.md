@@ -5,4 +5,4 @@
 
 ## Пополнение словарного запаса
 - [1000 популярных слов в английском языке](https://puzzle-english.com/directory/1000-popular-words)
-- [1 000 самых важных слов английского языка](https://englex.ru/most-important-english-words/)
+- [1000 самых важных слов английского языка](https://englex.ru/most-important-english-words/)
