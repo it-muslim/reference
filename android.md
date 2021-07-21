@@ -1,5 +1,9 @@
 # Android
 
+## Книги
+
+- **Параллельное программирование в Java на практике** (для среднего уровня и выше) - одна из лучших книг, разъясняющих тему многопоточности в Java
+
 ##  Сайты
 
 - ⭐ [Android Developer Reference](https://github.com/ImangazalievM/android-developer-reference) - набор полезных ссылок
