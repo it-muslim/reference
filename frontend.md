@@ -22,6 +22,7 @@
 ## Для продвинутых
 
 - [web.dev](https://web.dev) - сайт о веб-разработке от Google
+- [CSS Live](https://css-live.ru)
 - [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies) (EN/RU) - статьи о проблемах, с которыми столкнулись компании и как они их решали 
 - [Interview Questions for front-end-Developer](http://www.thatjsdude.com/interview/)
 - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript)
