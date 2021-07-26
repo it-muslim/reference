@@ -28,6 +28,7 @@
 
 ### Laravel
 
+- [LaravelDaily/Laravel-Roadmap-Learning-Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path) (ENG) - roadmap по изучению Laravel
 - [laravelexamples.com](https://laravelexamples.com) — каталог разных полезных примеров для Laravel от автора YouTube-канала Laravel Daily.
 
 ## Каналы
