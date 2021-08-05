@@ -32,6 +32,7 @@
 ### Сайты
 
 - [Gurufy](https://gurufy.dev)
+- [harryheman/React-Total](https://github.com/harryheman/React-Total) - полный гайд по React и связанным с ним технологиям
 
 ### Видеокурсы
 
