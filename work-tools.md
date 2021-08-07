@@ -20,7 +20,7 @@
 - Telegram
 - Discord
 
-## Документация
+## Документация/Wiki
 
 - Confluence
 
