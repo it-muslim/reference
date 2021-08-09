@@ -40,5 +40,9 @@
 - [Metanit.com](https://metanit.com/python/)
 - [Вопросы и ответы для собеседования веб-разработчика на Python](https://blog.pilosus.org/posts/2019/12/08/python-interview-questions-ru/)
 
+## Django
+
+- [Курс на MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+
 # C#
 - [Metanit](https://metanit.com/sharp/) - Сайт с обучающими материалами по языку C# и семейству технологий .NET
