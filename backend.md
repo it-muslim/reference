@@ -1,5 +1,6 @@
 # Бэкенд
 
+- [Серверное программирование веб-сайтов](https://developer.mozilla.org/ru/docs/Learn/Server-side) ([ENG](https://developer.mozilla.org/en-US/docs/Learn/Server-side)) - курс на MDN
 - [Highload.today](https://highload.today)
 
 ## СУБД
@@ -42,7 +43,11 @@
 
 ## Django
 
-- [Курс на MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+- [Курс на MDN](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django) ([ENG](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django))
+
+# Node
+
+- [Веб-фреймворк Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) (ENG)
 
 # C#
 - [Metanit](https://metanit.com/sharp/) - Сайт с обучающими материалами по языку C# и семейству технологий .NET
