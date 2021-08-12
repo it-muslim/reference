@@ -43,6 +43,7 @@
 - [@theyseeku](https://t.me/theyseeku)
 - [@u_job](https://t.me/u_job)
 - [@workayte](https://t.me/workayte)
+- [@workatstartup](https://t.me/workatstartup) - работа в стартапах
 
 ### Веб
 
