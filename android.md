@@ -34,3 +34,11 @@
 
 - [IT-Sobes](https://itsobes.ru) - вопросы и ответы по Java/Android. [Telegram-канал](https://t.me/AndroidSobes).
 - [enhorse/java-interview](https://github.com/enhorse/java-interview) - вопросы и ответы по Java
+
+## Инструменты
+
+- Android Studio
+- [scrcpy](https://github.com/Genymobile/scrcpy)
+- FastLane
+- App Center
+- [AppFollow](https://appfollow.io/ru) — сервис мониторинга активности приложений в App Store, Google Play
