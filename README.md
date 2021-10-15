@@ -53,12 +53,18 @@ ____
 - [Фронтенд](frontend.md)
 - [Бэкенд](backend.md)
 
-
 ## Мобильная разработка
 
 - [Android](android.md)
 - [iOS](ios.md)
 - [Flutter](flutter.md)
+
+## Менеджерские/продуктовые
+- [Дизайн](design.md)
+- [Маркетинг](marketing.md)
+- [Управление продуктом](product-management.md)
+- Управление командой
+- Аналитика
 
 ## Другие направления
 
@@ -70,11 +76,6 @@ ____
 - [Системное администрироваие, DevOps](system-administration.md)
 - [QA - тестирование](qa_testing.md)
 - [Data Science](data-science.md)
-
-#### Менеджерские/продуктовые
-- [Дизайн](design.md)
-- [Маркетинг](marketing.md)
-- [Управление продуктом](product-management.md)
 
 #### Разные
 - [Электроника и DIY](eletronics-and-diy.md)
