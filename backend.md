@@ -13,6 +13,10 @@
 - [RClass](https://www.youtube.com/c/Rclass)
 - [HighLoad Channel](https://www.youtube.com/user/profyclub)
 
+## Видео
+
+- [Курс лекций по Highload](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo) - курс от Олега Бунина о проектировании высоконагруженных систем
+
 # PHP
 
 ## Учебники
@@ -22,14 +26,15 @@
 
 ## Полезное
 
-- [PHP-дайджест](https://habr.com/ru/users/pronskiy/posts/)
-- [adelf/acwa_book_ru](https://github.com/adelf/acwa_book_ru) - архитектура сложных веб-приложений с примерами на Laravel
+- [peter-gribanov/clean-code-php](https://github.com/peter-gribanov/clean-code-php) - как писать хороший код на PHP
 - [250+ вопросов с собеседований по PHP](https://techrocks.ru/2021/04/18/250-php-job-interview-questions/)
+- [PHP-дайджест](https://habr.com/ru/users/pronskiy/posts/)
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ### Laravel
 
 - [LaravelDaily/Laravel-Roadmap-Learning-Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path) (ENG) - roadmap по изучению Laravel
+- [adelf/acwa_book_ru](https://github.com/adelf/acwa_book_ru) - архитектура сложных веб-приложений с примерами на Laravel
 - [laravelexamples.com](https://laravelexamples.com) — каталог разных полезных примеров для Laravel от автора YouTube-канала Laravel Daily.
 - [made with Laravel](https://madewithlaravel.com) - примеры приложений, написанных на Laravel + различные библиотеки и сервисы для него
 
