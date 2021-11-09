@@ -8,6 +8,7 @@
 ## Видео
 
 - [Кто и как ловит хакеров, Часть 1](https://youtu.be/Ii8Tm5vBgU0)
+- [Все видео от Group-IB](https://www.youtube.com/playlist?list=PL8Fj6Tf1y_zm-rHIfTUPrEfD14ujfsvL-)
 
 ## Прочее
 
