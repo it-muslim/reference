@@ -45,6 +45,7 @@
 # Python
 
 - [Добрый, добрый Python](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8yWHh2V70bTtbVxJICrnJHd) - курс для начинающих
+- [Питонтьютор](https://pythontutor.ru) - интерактивный учебник по Python
 - [Metanit.com](https://metanit.com/python/)
 - [Вопросы и ответы для собеседования веб-разработчика на Python](https://blog.pilosus.org/posts/2019/12/08/python-interview-questions-ru/)
 
