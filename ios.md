@@ -1,5 +1,7 @@
 # iOS
 
+- [iOS Guide](https://github.com/alexander-yakovlev-gismart/ios-guide) - Список вопросов и ответов, а также базовая информация, необходимая в подготовке к интервью на iOS-разработчика
+
 ##  Сайты
 
 - ⭐ [SwiftBook](https://swiftbook.ru/courses/) — курсы по основам iOS разработки
