@@ -8,6 +8,7 @@
 - [xsltdev](https://xsltdev.ru) - онлайн учебник/справочник по HTML, CSS, JavaScript, TypeScript, Angular, React и Node.js
 - [code.mu](http://code.mu/ru/markup/book/prime) - учебник HTML и CSS
 - [doka.guide](https://doka.guide) - документация по HTML, CSS и JavaScript на "человеческом" языке ([GitHub](https://github.com/doka-guide/content))
+- [HTML 5 Book](https://html5book.ru) - уроки по HTML, CSS и JavaScript
 
 ## Для начинающих
 
