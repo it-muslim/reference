@@ -30,6 +30,7 @@ ____
 
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - идеи приложений для начинающих (и не очень)
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x) - как сделать свой ...
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - список туториалов по созданию учебных проектов
 
 ## Работа
 
