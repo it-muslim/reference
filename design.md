@@ -5,3 +5,4 @@
 
 ### Полезные статьи
 - [Дизайн-система: иконки](https://vc.ru/design/197293-dizayn-sistema-ikonki)
+- [14 свежих и полезных дизайн-ресурсов в январе](https://vc.ru/design/197527-14-svezhih-i-poleznyh-dizayn-resursov-v-yanvare)
