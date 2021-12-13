@@ -1,6 +1,7 @@
 # Электроника и DIY
 
-[Вольтик Вики](https://voltiq.ru/wiki/)
+- [Вики Амперки](http://wiki.amperka.ru/)
+- [Вольтик Вики](https://voltiq.ru/wiki/)
 
 ## Каналы
 
