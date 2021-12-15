@@ -78,7 +78,7 @@ ____
 #### Технические
 - [Информационная безопасность](information-security.md)
 - [Системное администрироваие, DevOps](system-administration.md)
-- [QA - тестирование](qa_testing.md)
+- [QA - тестирование](qa-testing.md)
 - [Data Science](data-science.md)
 
 #### Разные
