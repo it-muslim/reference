@@ -9,7 +9,7 @@
 
 - ⭐ [Android Developer Reference](https://github.com/ImangazalievM/android-developer-reference) - набор полезных ссылок
 - [Cybern.ru](http://cybern.ru) — Java  
-- [https://urvanov.ru/2016/03/23/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-java-8/](Учебник Java 8) — Java  
+- [Учебник Java 8](https://urvanov.ru/2016/03/23/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-java-8/) — Java  
 - [Metanit.com](https://metanit.com/java) - Java/Android  
 - [Сайт Александра Климова](http://developer.alexanderklimov.ru/) — Java/Android  
 - [StartAndroid](http://startandroid.ru) — Android  
