@@ -35,7 +35,7 @@ https://www.notion.so
 
 https://nimbusweb.me
 
-## Reverson Context
+## Reverso Context
 
 Сервис, где можно посмотреть использование слов и выражений на иностранном языке в контексте с переводом.
 
