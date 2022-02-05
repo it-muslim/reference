@@ -14,6 +14,7 @@
 - [Хабр Карьера](https://career.habr.com) (бывший "Мой круг")
 - [HeadHunter](https://hh.ru)
 - [Djinni](djinni.co)
+- [designer.ru](https://designer.ru) - работа для дизайнеров
 
 Менее известные:
 
@@ -60,6 +61,7 @@
 
 ### Дизайн
 
+- [@design_ru](https://t.me/design_ru)
 - [@designhunters](https://t.me/designhunters)
 - [@uiux_jobs](https://t.me/uiux_jobs)
 - [@adobekz](https://t.me/adobekz)
