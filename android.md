@@ -17,7 +17,7 @@
 - [LEARN.ANDROID](http://learn-android.ru/index.html) — Android  
 - [fanDROID.info](http://fandroid.info) — Android  
 - [developer.android.com](http://developer.android.com/) — основной ресурс Android-разработчика
-- [https://itsobes.ru/](IT-Sobes) - вопросы и ответы для подготовки к собеседованию по Java/Android.
+- [https://itsobes.ru](IT-Sobes) - вопросы и ответы для подготовки к собеседованию по Java/Android.
 
 ## Каналы
 
