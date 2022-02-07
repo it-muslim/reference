@@ -22,7 +22,8 @@
 ## Каналы
 
 - ⭐ [Образование онлайн](http://www.youtube.com/user/JavaOOP) — Java
-- ⭐ [ZhirniToni](http://www.youtube.com/user/ZhirniToni) — Java  
+- ⭐ [ZhirniToni](http://www.youtube.com/user/ZhirniToni) — Java
+- ⭐ [Android Broadcast](https://www.youtube.com/c/AndroidBroadcast/videos) - новости, обзоры, уроки, собесы
 - [AndroidBroadcast](https://www.youtube.com/c/AndroidBroadcast)
 - [Онлайн уроки по Java](http://www.youtube.com/user/ytkach) — Java  
 - [Devcolibri TV](http://www.youtube.com/user/devcolibri) — Java/Android  
@@ -31,7 +32,6 @@
 - [Droidcon Russia](https://www.youtube.com/channel/UC0b8zl2j1Qo6Xa7UHwfGd8A) — Android  
 - [Mobius](https://www.youtube.com/channel/UCG70q1HRspLdd93HW94WS-A) — Android
 - [Уроки Java](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)
-- [Android Broadcast](https://www.youtube.com/c/AndroidBroadcast/videos) - новости, обзоры, уроки, собесы
 
 ## Подготовка к собеседованию
 
