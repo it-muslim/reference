@@ -31,7 +31,7 @@
 - [Droidcon Russia](https://www.youtube.com/channel/UC0b8zl2j1Qo6Xa7UHwfGd8A) — Android  
 - [Mobius](https://www.youtube.com/channel/UCG70q1HRspLdd93HW94WS-A) — Android
 - [Уроки Java](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)
-- [Android Broadcast](https://www.youtube.com/c/AndroidBroadcast/videos)
+- [Android Broadcast](https://www.youtube.com/c/AndroidBroadcast/videos) - новости, обзоры, уроки, собесы
 
 ## Подготовка к собеседованию
 
