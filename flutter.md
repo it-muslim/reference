@@ -11,3 +11,5 @@
 ## Каналы
 
 - [LazyLoad Dart & Flutter](https://www.youtube.com/c/LearnDartFlutter)
+- [dbestech](https://www.youtube.com/c/dbestech)
+- [The Flutter Way](https://www.youtube.com/c/TheFlutterWay)
