@@ -2,6 +2,8 @@
 
 - [Серверное программирование веб-сайтов](https://developer.mozilla.org/ru/docs/Learn/Server-side) ([ENG](https://developer.mozilla.org/en-US/docs/Learn/Server-side)) - курс на MDN
 - [Highload.today](https://highload.today)
+- [Курс практический минимум от "Computer Science Center"](https://www.youtube.com/playlist?list=PLlb7e2G7aSpT5DX9rQKnmZMK0DG7dWrUc)
+
 
 ## СУБД
 
@@ -48,10 +50,12 @@
 - [Питонтьютор](https://pythontutor.ru) - интерактивный учебник по Python
 - [Metanit.com](https://metanit.com/python/)
 - [Вопросы и ответы для собеседования веб-разработчика на Python](https://blog.pilosus.org/posts/2019/12/08/python-interview-questions-ru/)
+- [Канал с полезными советами по python и не только](https://www.youtube.com/channel/UC9MK8SybZcrHR3CUV4NMy2g)
 
 ## Django
 
 - [Курс на MDN](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django) ([ENG](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django))
+- [Канал с лайвкодингом](https://www.youtube.com/channel/UCO8aN1B8ncJM09rohGvOiCQ)
 
 # Node
 
