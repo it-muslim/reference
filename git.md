@@ -9,6 +9,8 @@
 - 🎦 [GIT и GITLAB ЗА 45 МИНУТ | ОСНОВЫ](https://youtu.be/8a9fPDkzk5M)
 - 🎦 [Git и GitHub Курс Для Новичков](https://youtu.be/zZBiln_2FhM)
 
+- 🧩 [Игра в гит](https://learngitbranching.js.org/?locale=ru_RU)
+
 ## GUI
 
 - [Sourcetree](https://www.sourcetreeapp.com) - бесплатный GUI для Windows и Mac
