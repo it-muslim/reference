@@ -35,10 +35,10 @@
 - [@jobforgeeks](https://t.me/)
 - [@jobs_abroad](https://t.me/jobs_abroad)
 - [@jobscode_infull](https://t.me/jobscode_infull)
-- [@jobforjunior](https://t.me/jobforjunior) - работа для Junior'ов
+- [@jobforjunior](https://t.me/jobforjunior) - работа для джунов
+- [@Job_IT_Junior](https://t.me/Job_IT_Junior) - еще вакансии для джунов
 - [@hiddengurus](https://t.me/hiddengurus)
 - [@it_hunters](https://t.me/it_hunters)
-- [@itjobskz](https://t.me/itjobskz) - работа для айтишников в Казахстане
 - [@perezvonyu](https://t.me/perezvonyu)
 - [@Remoteit](https://t.me/Remoteit)
 - [@theyseeku](https://t.me/theyseeku)
