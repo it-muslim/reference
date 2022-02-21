@@ -43,6 +43,7 @@
 ## Каналы
 
 - [RND PHP](https://www.youtube.com/channel/UC1KvBdMDxZpsOecra6-Kw6g)
+- [CutCodeRu](https://www.youtube.com/c/CutCodeRu) - канал со множеством видео по Laravel
 
 # Python
 
