@@ -59,7 +59,6 @@
 # Node
 
 - [Веб-фреймворк Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) (ENG)
-- [Веб-фреймворк NestJs](https://docs.nestjs.com/) (ENG)
 
 ### Инструменты
 
