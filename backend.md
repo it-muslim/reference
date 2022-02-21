@@ -4,7 +4,6 @@
 - [Highload.today](https://highload.today)
 - [Курс практический минимум от "Computer Science Center"](https://www.youtube.com/playlist?list=PLlb7e2G7aSpT5DX9rQKnmZMK0DG7dWrUc)
 
-
 ## СУБД
 
 - [Основы SQL](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT) - курс от Андрея Созыкина
@@ -60,6 +59,7 @@
 # Node
 
 - [Веб-фреймворк Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) (ENG)
+- [Веб-фреймворк NestJs](https://docs.nestjs.com/) (ENG)
 
 ### Инструменты
 
@@ -69,4 +69,5 @@
   - Автоматически перезапускать упавший сервер
 
 # C#
+
 - [Metanit](https://metanit.com/sharp/) - Сайт с обучающими материалами по языку C# и семейству технологий .NET
