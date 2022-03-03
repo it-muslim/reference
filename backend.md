@@ -62,6 +62,7 @@
 # Node
 
 - [Веб-фреймворк Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) (ENG)
+- [Node.js](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ) Очень качественная и уникальная информация о Nodejs (Timur Shemsedinov)
 
 ### Инструменты
 
