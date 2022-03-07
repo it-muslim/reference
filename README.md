@@ -69,7 +69,7 @@
 
 - [Дизайн](design.md)
 - [Маркетинг](marketing.md)
-- [Бизнес-анализ] - (business-analysis.md)
+- [Бизнес-анализ](business-analysis.md)
 - [Управление продуктом](product-management.md)
 - [Управление командой](team-management.md)
 - Аналитика
