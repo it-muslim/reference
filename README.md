@@ -14,7 +14,7 @@
 
 - [IT-Muslim в лицах](https://github.com/it-muslim/faces) - участники IT-Muslim
 - [Исламские проекты](https://github.com/it-muslim/projects)
-- [Группы в Telegram](https://github.com/it-muslim/telegram-groups.md)
+- [Группы в Telegram](https://github.com/it-muslim/reference/blob/main/telegram-groups.md)
 - [Рекомендуемые программы и сервисы](recommended.md)
 
 ⭐ - рекомендованное
