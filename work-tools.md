@@ -12,6 +12,7 @@
 
 - Jira
 - Trello
+- [ClickUp](clickup.com)
 
 ## Мессенджеры
 
@@ -30,6 +31,10 @@
 ## Ведение учета
 
 - Jira Tempo - учет времени
+
+## Брейншторм/схемы
+- [draw.io](https://app.diagrams.net/)
+- [Miro](https://miro.com/)
 
 ## Связки сервисов
 
