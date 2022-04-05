@@ -9,3 +9,7 @@
 
 ### Разное
 - [Telegram-каналы для дизайнеров](https://designer.ru/c/)
+
+### Telegram-каналы
+
+- [/design](https://t.me/slashdesigner) - просто крутой канал про дизайн
