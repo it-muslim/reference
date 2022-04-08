@@ -47,7 +47,7 @@
 
 # Python
 
-- [Чат Django Muslim](t.me/django_muslim)
+- [Чат Django Muslim](https://t.me/django_muslim)
 - [Добрый, добрый Python](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8yWHh2V70bTtbVxJICrnJHd) - курс для начинающих
 - [Питонтьютор](https://pythontutor.ru) - интерактивный учебник по Python
 - [Metanit.com](https://metanit.com/python/)
