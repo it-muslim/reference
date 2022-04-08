@@ -1,5 +1,7 @@
 # Фронтенд
 
+- [Чат Frontend Muslim](https://t.me/frontendmuslim)
+
 ## Учебники
 
 - [CodeBasics](https://ru.code-basics.com) - онлайн-учебник по HTML, CSS и JavaScript (а также другим языкам) от Хекслет
