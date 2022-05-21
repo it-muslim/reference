@@ -1,0 +1,1 @@
+- [Онлайн-школа анализа данных и Data Science Karpov.Courses](https://karpov.courses) - проходил один из участников IT-Muslim, очень хвалалил. Сказал, что всё пригодилось
