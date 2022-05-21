@@ -75,7 +75,7 @@
 - [Бизнес-анализ](business-analysis.md)
 - [Управление продуктом](product-management.md)
 - [Управление командой](team-management.md)
-- Аналитика
+- [Аналитика](analytics.md)
 
 ## Другие направления
 
