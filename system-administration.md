@@ -7,6 +7,7 @@
 ## Каналы
 
 - ⭐ [KirillSemaev](https://www.youtube.com/c/KirillSemaev)
+- ⭐ [RomNero](https://www.youtube.com/c/RomNero)
 - [Системное администрирование, безопасность, сети](https://www.youtube.com/c/Системноеадминистрирование) - канал Яндекса
 
 ### Компьютерные сети
