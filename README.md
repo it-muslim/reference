@@ -68,6 +68,13 @@
 - [iOS](ios.md)
 - [Flutter](flutter.md)
 
+#### Технические
+
+- [Информационная безопасность](information-security.md)
+- [Системное администрироваие, DevOps](system-administration.md)
+- [QA - тестирование](qa-testing.md)
+- [Data Science](data-science.md)
+
 ## Менеджерские/продуктовые
 
 - [Дизайн](design.md)
@@ -83,13 +90,6 @@
 
 - [Assembler](assembler.md)
 - [C++](cpp.md)
-
-#### Технические
-
-- [Информационная безопасность](information-security.md)
-- [Системное администрироваие, DevOps](system-administration.md)
-- [QA - тестирование](qa-testing.md)
-- [Data Science](data-science.md)
 
 #### Разные
 
