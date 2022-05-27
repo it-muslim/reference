@@ -13,3 +13,4 @@
 ## Прочее
 
 - [awesome-hacking](https://github.com/hack-with-github/awesome-hacking/)
+- [FindCyberSecJob](https://github.com/MiichaelKlimenko/FindCyberSecJob) - стажировки для ИБ'шников
