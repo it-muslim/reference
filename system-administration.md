@@ -1,10 +1,14 @@
-# Системное администрироваие
+# Системное администрирование
 
 ## Linux
 
 - ⭐ [Администрирование Linux](https://www.youtube.com/playlist?list=PLrCZzMib1e9rx3HmaLQfLYb9ociIvYOY1) - курс от Mail.ru
 
 ## DevOps
+
+**NGINGX
+
+[Основы Nginx](https://youtube.com/playlist?list=PLhgRAQ8BwWFa7ulOkX0qi5UfVizGD_-Rc)
 
 **GitLab CI/CD**
 
