@@ -2,8 +2,14 @@
 
 - [IT-Muslim](https://t.me/it_muslim) - Главный чат
 - [IT-Muslim Работа](https://t.me/it_muslim_job) - Поиск работы/исполнителей
+
+### Web
 - [Frontend Muslim](https://t.me/frontendmuslim)
 - [Django Muslim](https://t.me/django_muslim)
 - [Rust Muslim](https://t.me/rust_muslim)
-- [Flutter Muslim](https://t.me/flutter_muslim)
 - [PHP Muslim](https://t.me/php_muslim)
+
+### Mobile
+- [Android - IT-Muslim](https://t.me/it_muslim_android)
+- [Muslim iOS-Developers](https://t.me/chadcom)
+- [Flutter Muslim](https://t.me/flutter_muslim)
