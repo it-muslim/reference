@@ -3,6 +3,7 @@
 - [IT-Muslim](https://t.me/it_muslim) - Главный чат
 - [IT-Muslim Работа](https://t.me/it_muslim_job) - Поиск работы/исполнителей
 - [Ingternet](https://t.me/ingternet_nav)
+- [Chechen IT Community](https://t.me/chitcom)
 
 ### Web
 - [Frontend Muslim](https://t.me/frontendmuslim)
