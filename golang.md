@@ -6,6 +6,7 @@
 - [Golang Blog](https://golang-blog.blogspot.com/p/go-essentials.html)
 - [Golangify](https://golangify.com)
 - [Go By Example](https://gobyexample.com)
+- [Roadmap](https://roadmap.sh/golang)
 
 ## Статьи
 
