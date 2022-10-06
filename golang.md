@@ -2,7 +2,7 @@
 
 - [Курс на Code Basics](https://ru.code-basics.com/languages/go) - курс от Hexlet
 - [Golang Book](http://golang-book.ru/) - курс по Go на русском
-- [CodeBasics][https://ru.code-basics.com/languages/go]
+- [CodeBasics](https://ru.code-basics.com/languages/go)
 - [Golang Blog](https://golang-blog.blogspot.com/p/go-essentials.html)
 - [Golangify](https://golangify.com)
 - [Go By Example](https://gobyexample.com)
