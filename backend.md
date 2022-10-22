@@ -59,6 +59,7 @@
 - [Курс на MDN](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django) ([ENG](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django))
 - [Канал с лайвкодингом](https://www.youtube.com/channel/UCO8aN1B8ncJM09rohGvOiCQ)
 - [Django REST Framework](https://ilyachch.gitbook.io/django-rest-framework-russian-documentation/overview/readme) - дока на русском
+- [Django Fun](https://django.fun/ru/) - про Django на русском. Похоже на автоматический перевод, но от этого не менее полезный ресурс
 
 # Node
 
