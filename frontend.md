@@ -45,6 +45,7 @@
 - [Курс от Гоши Дударя](https://www.youtube.com/playlist?list=PL0lO_mIqDDFWhkCEMnLsBP51K7o78dbAJ)
 - [Курс от JavaScript.ru](https://www.youtube.com/playlist?list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO)
 - [Курс от webDev](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHC8qUfTzfxPuGrz4o9tmeE)
+- [БЕСПЛАТНЫЙ курс по верстке сайтов. Верстка сайтов с нуля. Выпуски будут выходить в виде уроков по HTML CSS JS](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr)
 
 ## Каналы YouTube
 
