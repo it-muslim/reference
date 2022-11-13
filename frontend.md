@@ -1,6 +1,7 @@
 # Фронтенд
 
 - [Чат Frontend Muslim](https://t.me/frontendmuslim)
+- [Front-end. Вопросы на собеседовании](https://www.youtube.com/playlist?app=desktop&list=PLNkWIWHIRwMFSLI9wBuHxuGI5lAZ7QNUg)
 
 ## Учебники
 
@@ -49,6 +50,7 @@
 
 ## Каналы YouTube
 
+- [webDev](https://www.youtube.com/c/YauhenKavalchuk)
 - [АйТи Синяк](https://www.youtube.com/channel/UClgj-KWiNaOo9H1rz1ISO6Q)
 - [IT's Bruise](https://www.youtube.com/channel/UCxmwNWXYWiNMXWy3VRmfEkw) - АйТи Синяк на английском
 - [JavaScript.Ninja](https://www.youtube.com/c/JavascriptNinja) - канал Ильи Климова, разработчика в GitLab
