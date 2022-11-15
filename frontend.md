@@ -2,6 +2,7 @@
 
 - [Чат Frontend Muslim](https://t.me/frontendmuslim)
 - [Front-end. Вопросы на собеседовании](https://www.youtube.com/playlist?app=desktop&list=PLNkWIWHIRwMFSLI9wBuHxuGI5lAZ7QNUg)
+- [https://my-js.org](MyJavaScript) - руководства, шпаргалки и различные материалы по разным технологиям на русском языкe
 
 ## Учебники
 
