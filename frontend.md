@@ -2,7 +2,7 @@
 
 - [Чат Frontend Muslim](https://t.me/frontendmuslim)
 - [Front-end. Вопросы на собеседовании](https://www.youtube.com/playlist?app=desktop&list=PLNkWIWHIRwMFSLI9wBuHxuGI5lAZ7QNUg)
-- [https://my-js.org](MyJavaScript) - руководства, шпаргалки и различные материалы по разным технологиям на русском языкe
+- [MyJavaScript](https://my-js.org) - руководства, шпаргалки и различные материалы по разным технологиям на русском языкe
 
 ## Учебники
 
@@ -31,6 +31,7 @@
 
 - [web.dev](https://web.dev) - сайт о веб-разработке от Google
 - [CSS Live](https://css-live.ru)
+- [Вопросы по фронту для собеседования (с ответами)](https://github.com/FedorovAlexander/Front-end-Job-Interview-Questions)
 - [Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies) (EN/RU) - статьи о проблемах, с которыми столкнулись компании и как они их решали 
 - [Interview Questions for front-end-Developer](http://www.thatjsdude.com/interview/)
 - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript)
