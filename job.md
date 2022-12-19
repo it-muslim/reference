@@ -36,6 +36,10 @@
 
 - [Hexlet/ru-test-assignments](https://github.com/Hexlet/ru-test-assignments) - тестовые задания от различных IT-компаний
 
+### Алгоритмы и System Design
+
+См. раздел [Программирование](programming.md).
+
 ## Отношения на работе
 
 - [На работу - работать! Дружба в офисе](https://youtu.be/4X8bGaSmLEY)
