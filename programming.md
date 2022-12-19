@@ -10,6 +10,10 @@
 - [Топ 8 лучших ресурсов для практики программирования](https://habr.com/ru/post/414009/)
 - [Алгоритмы и структуры данных](https://www.youtube.com/playlist?list=PLAma_mKffTOT_qpTFv4KdD9DhOAUd5Rqy)
 
+## System Design
+
+- [Между скобок](https://youtube.com/@mezhdu_skobok)
+
 ### Книги
 - ⭐ **Грокаем алгоритмы - Бхаргава Адитья** - настоятельно рекомендуем
 
