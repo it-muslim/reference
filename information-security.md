@@ -10,6 +10,11 @@
 - [Кто и как ловит хакеров, Часть 1](https://youtu.be/Ii8Tm5vBgU0)
 - [Все видео от Group-IB](https://www.youtube.com/playlist?list=PL8Fj6Tf1y_zm-rHIfTUPrEfD14ujfsvL-)
 
+## Каналы
+
+- [SPbCTF](https://www.youtube.com/@SPbCTF)
+- [Хакердом](https://www.youtube.com/@Hackerdom)
+
 ## Прочее
 
 - [awesome-hacking](https://github.com/hack-with-github/awesome-hacking/)
