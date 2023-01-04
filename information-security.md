@@ -1,9 +1,10 @@
 # Информационная безопасность
 
-## Блоги
+## Сайты и блоги
 
 - [Блог DeteAct](https://blog.deteact.com/ru)
 - [Блог bo0om](https://bo0om.ru)
+- [CTF News](https://ctfnews.ru/literature/) - полезные ресурсы от CTF News
 
 ## Видео
 
