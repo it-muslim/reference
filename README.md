@@ -31,7 +31,7 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - идеи приложений для начинающих (и не очень)
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x) - как сделать свой ...
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - список туториалов по созданию учебных проектов
-- [ProjectLearn.io](projectlearn.io) ([GitHub](https://github.com/Xtremilicious/projectlearn-project-based-learning)) - еще один список проектов для обучения через практику
+- [ProjectLearn.io](https://projectlearn.io) ([GitHub](https://github.com/Xtremilicious/projectlearn-project-based-learning)) - еще один список проектов для обучения через практику
 
 ## Работа
 
