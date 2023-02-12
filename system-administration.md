@@ -3,6 +3,7 @@
 ## Linux
 
 - ⭐ [Администрирование Linux](https://www.youtube.com/playlist?list=PLrCZzMib1e9rx3HmaLQfLYb9ociIvYOY1) - курс от Mail.ru
+- [YandexCloud](https://www.youtube.com/@YandexCloudPlatform) - видео по сервисам Yandex Cloud. Поможет подтянуть знания по Облачным сервисам
 
 ## DevOps
 
