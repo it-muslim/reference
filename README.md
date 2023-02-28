@@ -47,6 +47,7 @@
 - [Языки](languages.md)
 - [Математика](math.md)
 - [Программирование](programming.md)
+- [Алгоритмы и структуры данных](algorithms-and-data-structures.md)
 - [Релокейт (переезд)](relocation.md)
 - [Git](git.md)
 
