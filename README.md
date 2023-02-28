@@ -48,6 +48,7 @@
 - [Математика](math.md)
 - [Программирование](programming.md)
 - [Алгоритмы и структуры данных](algorithms-and-data-structures.md)
+- [System Design / Проектирование архитектуры](system-design.md)
 - [Релокейт (переезд)](relocation.md)
 - [Git](git.md)
 
