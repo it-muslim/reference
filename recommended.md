@@ -59,6 +59,12 @@ https://www.y2mate.com
 
 - [Google Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
 
+## Video Speed Controller
+
+Расширение для более гибкой настройки скорости воспроизведения видео, с возможностью установить скорость больше x2.
+
+- [Google Chrome](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
+
 ## YouTube Vanced - Android
 
 Клиент YouTube для Android без рекламы и с возможностью прослушивания в фоне.
