@@ -53,6 +53,12 @@ https://vocalremover.org
 
 https://www.y2mate.com
 
+## Sponsorblock for YouTube
+
+Расширение, чтобы пропускать нативную рекламу (рекламные вставки) на YouTube.
+
+- [Google Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
+
 ## YouTube Vanced - Android
 
 Клиент YouTube для Android без рекламы и с возможностью прослушивания в фоне.
