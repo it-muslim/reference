@@ -7,7 +7,7 @@
 
 ## DevOps
 
-**NGINGX**
+**NGINX**
 
 [Основы Nginx](https://youtube.com/playlist?list=PLhgRAQ8BwWFa7ulOkX0qi5UfVizGD_-Rc)
 
