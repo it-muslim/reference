@@ -1,4 +1,4 @@
-# Системное администрирование
+# DevOps, Системное администрирование
 
 ## Linux
 
@@ -20,6 +20,7 @@
 
 ## Каналы
 
+- ⭐ [Слёрм](https://www.youtube.com/@slurm_io) — образование для инженеров и технических лидеров: Kubernetes, DevOps, Docker, CI/CD, Ceph, SRE. 
 - ⭐ [KirillSemaev](https://www.youtube.com/c/KirillSemaev)
 - ⭐ [RomNero](https://www.youtube.com/c/RomNero) - канал про DevOps
 - [Системное администрирование, безопасность, сети](https://www.youtube.com/c/Системноеадминистрирование) - канал Яндекса
