@@ -12,6 +12,8 @@
 
 - Jira
 - Trello
+- Notion
+- Yandex Tracker
 - [ClickUp](clickup.com)
 
 ## Мессенджеры
