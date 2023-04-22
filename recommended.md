@@ -79,5 +79,5 @@ https://www.y2mate.com
 
 ### Разные
 
-- [notta.ai](notta.ai) - перевод аудио в текст
-- [kateb.ai](kateb.ai) - перевод аудио в текст
+- [notta.ai](https://notta.ai) - перевод аудио в текст
+- [kateb.ai](https://kateb.ai) - перевод аудио в текст
