@@ -13,3 +13,12 @@
 ### Telegram-каналы
 
 - [/design](https://t.me/slashdesigner) - просто крутой канал про дизайн
+- [/Адовый UX](https://t.me/uxfromhell) - примеры плохого UX
+- [/UI/UX Designer](https://t.me/uxidesign) - новости
+- [/Дизайнер, привет](https://t.me/jun_hi) - топ канал, особенно для UI/UX дизайнеров
+
+### Полезные сайты
+
+- [/Оди](https://awdee.ru/) - статьи, новости, материалы и тд
+- [/Brandfetch](https://brandfetch.com/) - вводишь название бренда и сразу видишь их фирменные цвета, шрифт и лого (можно скачать SVG, PNG и тд)
+- [/Cheklist Design](https://www.checklist.design/) - сборник лучших дизайнерских практик
